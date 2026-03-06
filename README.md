@@ -1,2 +1,2 @@
 # langchaintutorminimo
-Tutorial básico de LanChain
+Tutorial básico de LangChain
